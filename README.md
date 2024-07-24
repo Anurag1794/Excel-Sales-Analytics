@@ -32,6 +32,7 @@ My Excel Project on Sales & Finance Analysis of Atliq Hardware
 
 - **Role of Financial reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+Pipeline: Performed ETL -> Data Cleaning -> Data Modeling -> Created dim_date Table -> Connected dim_date to Data Model -> Performed DAX Formula -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
